@@ -1,5 +1,5 @@
 ## Gao Huang
-![HuangGao](./assets/huanggao/avatar.jpg)
+![HuangGao](./assets/avatar.jpg)
 
 ### Bio
 
@@ -24,4 +24,4 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017 BestPaper)
 
 Tags: Densely connected convolutional networks
 
-![densnet](./assets/huanggao/densnet.png)
+![densnet](./assets/densnet.png)
