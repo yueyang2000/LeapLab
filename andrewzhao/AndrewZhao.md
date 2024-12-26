@@ -1,5 +1,6 @@
 ## Andrew Zhao
 ![AndrewZhao](./assets/avatar.jpeg)
+<a href="andrewzhao112@gmail.com">email</a>
 
 ### Tags
 Reinforcement Learning, LLM Reasoning, LLM-based Agents, AI Safety
