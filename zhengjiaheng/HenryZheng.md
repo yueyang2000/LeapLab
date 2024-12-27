@@ -32,6 +32,7 @@ Under Review
 
 Tags: 3D Perception and Spatial Intelligence
 
+![DenseGrounding](./assets/denseg.png)
 
 ### Highlights
 CVPR AGC2024 Challenge Champion + Innovation Award. 
