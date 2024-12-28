@@ -10,7 +10,7 @@ Huanqian Wang is a PHD Student at Tsinghua University, specializing in AI safety
 ### Tags
 AI safety, Embodied AI
 
-### Membership
+### Membership 
 PHD Student
 
 ### Links
