@@ -1,4 +1,4 @@
-## Yulin Wang
+## Yulin Wang（王语霖）
 <p align="center">
   <img src="./assets/Yulin_Wang.jpg" alt="WangYulin" width="700"/>
 </p>
