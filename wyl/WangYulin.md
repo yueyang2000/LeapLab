@@ -109,7 +109,7 @@ Tags: Efficient Learning of Foundation Models
 ---
 
 #### Regularizing Deep Networks with Semantic Data Augmentation
-[<a href="https://arxiv.org/pdf/2007.10538.pdf">paper link</a>] | [<a href="https://github.com/blackfeather-wang/ISDA-for-Deep-Networks">code link</a>] | [<a href="https://zhuanlan.zhihu.com/p/344953635">知乎</a>]
+[<a href="https://arxiv.org/pdf/2007.10538.pdf">paper link</a>] | [<a href="https://github.com/blackfeather-wang/ISDA-for-Deep-Networks">code link</a>] | [<a href="https://zhuanlan.zhihu.com/p/344953635">知乎</a>] [<a href="https://mp.weixin.qq.com/s/6pgrQ_UcfJK57hq9jFT17g">新智元</a>] [<a href="https://mp.weixin.qq.com/s/HzDbxsQpvlk-cDAVOd4qxQ">AI科技评论</a>]
 
 Bib: **Yulin Wang**, Gao Huang, Shiji Song, Xuran Pan, Yitong Xia, Cheng Wu.
 
@@ -122,7 +122,7 @@ Tags: Efficient Learning of Foundation Models
 ---
 
 #### Dynamic Neural Networks: A Survey
-[<a href="https://arxiv.org/pdf/2102.04906.pdf">paper link</a>] | [<a href="https://mp.weixin.qq.com/s/TG_HBAR7Jrec4X02sxNGEA">智源社区</a>]
+[<a href="https://arxiv.org/pdf/2102.04906.pdf">paper link</a>] | [<a href="https://mp.weixin.qq.com/s/TG_HBAR7Jrec4X02sxNGEA">智源社区</a>] [<a href="https://jmq.h5.xeknow.com/s/2H6ZSj">机器之心-在线讲座</a>] [<a href="https://www.bilibili.com/video/BV19B4y1A7Wy?from=search&seid=12254026542403915477">Bilibili</a>]
 
 Bib: Yizeng Han, Gao Huang, Shiji Song, Le Yang, Honghui Wang, **Yulin Wang**.
 
