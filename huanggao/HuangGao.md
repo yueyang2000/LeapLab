@@ -13,7 +13,7 @@ Faculty
 
 ### Links
 
-<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=gao+huang&btnG=&oq=gao">Personal HomePage</a>
+<a href="https://www.gaohuang.net/">Personal HomePage</a>
 
 ### Publications
 #### Densely connected convolutional networks
