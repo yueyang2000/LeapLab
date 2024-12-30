@@ -1,4 +1,4 @@
-## Zelin Song
+## Zelin Song(宋泽林)
 ![Zelin Song](./assets/szl.jpg)
 
 ### Bio
@@ -9,7 +9,7 @@ Zelin Song is a second-year master student in the Department of Automation at Ts
 Large Language Model,  Computer Vision
 
 ### Membership
-PhD Students
+Master Students
 
 ### Links
 
