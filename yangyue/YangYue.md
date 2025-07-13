@@ -17,17 +17,29 @@ PhD Students
 
 ### Publications
 
+#### EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance
+
+ [paper_links](https://openaccess.thecvf.com/content/CVPR2025/papers/Yue_EchoWorld_Learning_Motion-Aware_World_Models_for_Echocardiography_Probe_Guidance_CVPR_2025_paper.pdf)
+
+Bib: Yang Yue, Yulin Wang, Haojun Jiang, Pan Liu, Shiji Song, Gao Huang (CVPR 2025)
+
+#### CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning
+
+ [paper_links](https://openaccess.thecvf.com/content/CVPR2025/papers/Yue_CheXWorld_Exploring_Image_World_Modeling_for_Radiograph_Representation_Learning_CVPR_2025_paper.pdf)
+
+Bib: Yang Yue, Yulin Wang, Chenxin Tao, Pan Liu, Shiji Song, Gao Huang (CVPR 2025)
+
 #### Uni-AdaFocus: Spatial-Temporal Dynamic Computation for Video Recognition
 
  [paper_links](https://ieeexplore.ieee.org/abstract/document/10787270)
 
-Bib: Y Wang, H Zhang, Y Yue, S Song, C Deng, J Feng, G Huang (T-PAMI 2024)
+Bib: Yulin Wang, Haoji Zhang, Yang Yue, Shiji Song, Chao Deng, Junlan Feng, Gao Huang (T-PAMI 2024)
 
 #### EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training 
 
 [paper_links](https://ieeexplore.ieee.org/abstract/document/10530470)
 
-Bib: Y Wang, Y Yue, R Lu, Y Han, S Song, G Huang (T-PAMI 2024)
+Bib: Yulin Wang, Yang Yue, Rui Lu, Yizeng Han, Shiji Song, Gao Huang (T-PAMI 2024)
 
 #### EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones
 
